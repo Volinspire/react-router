@@ -9,9 +9,6 @@
   "env": {
     "cjs": {
       "plugins": ["add-module-exports"]
-    },
-    "test": {
-      "plugins": ["istanbul"]
     }
   }
 }
